@@ -1,2 +1,3 @@
-# train_ML_algorithm
-depots contenant differents algorithmes de Machine Learning
+# notebooks_ML_Competitions
+Depot contenant plusieurs code dans des notebooks sur la résolutions des problèmes de Machine learning
+
